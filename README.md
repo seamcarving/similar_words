@@ -1,4 +1,7 @@
-qiita記事
+# qiita記事
+## タイトル
+Python 日本語WordNetによる単語リスト(csv)からの類義語検索
+## URL
 https://qiita.com/seamcarving/items/c9328cdb8f558edb4369
 
 # 内容物
